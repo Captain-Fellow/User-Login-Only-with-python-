@@ -33,7 +33,7 @@ class LoginSystem:
                 if not username:
                     print("Username cannot be empty!")
                     continue
-                
+                                git pull origin main --allow-unrelated-histories
                 if self.db.user_exists(username):
                     print(f"Username '{username}' already exists! Try another.")
                     continue
