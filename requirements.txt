@@ -1,0 +1,15 @@
+# Requirements for the Login System
+# No external packages needed - using only Python standard library
+
+# Core Python modules used:
+# - sqlite3 (database)
+# - hashlib (password hashing)
+# - datetime (timestamps)
+# - getpass (secure password input)
+# - os (system operations)
+# - time (delays and timing)
+# - logging (system logging)
+# - re (regular expressions)
+# - string (string operations)
+
+# All modules are part of Python standard library, no pip install needed!
